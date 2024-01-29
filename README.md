@@ -26,7 +26,7 @@ To get started with the calculator, clone the repository and open the `hz.html` 
 
 ```bash
 git clone https://github.com/hzhefaz/hz-javascript_operators_calculator.git
-cd js-operator-calculator
+cd hz-javascript_operators_calculator
 ```
 
 ## Contributing:
