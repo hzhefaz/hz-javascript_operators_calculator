@@ -25,8 +25,8 @@ A simple and versatile calculator built with JavaScript that allows users to per
 To get started with the calculator, clone the repository and open the `hz.html` file in your preferred web browser.
 
 ```bash
-git clone https://github.com/hzhefaz/hz-javascript_operators_calculator.git
-cd hz-javascript_operators_calculator
+git clone https://github.com/hzhefaz/javascript_calculator.git
+cd javascript_calculator
 ```
 
 ## Contributing:
