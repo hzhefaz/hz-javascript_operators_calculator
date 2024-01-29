@@ -1,3 +1,6 @@
+![Screenshot (17)-modified (1)](https://github.com/hzhefaz/javascript-calculator/assets/91753636/3db48e6c-76f8-4b2c-b232-5d38a1946a61)
+
+
 # JavaScript Operator Calculator
 
 A simple and versatile calculator built with JavaScript that allows users to perform basic arithmetic operations right in their web browser. This calculator supports addition, subtraction, multiplication, and division, making it a handy tool for quick calculations.
